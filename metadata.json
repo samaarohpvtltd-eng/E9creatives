@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix E9 Graphics CRM \u0026 Production Flow",
+  "description": "End-to-end Enterprise CRM \u0026 Project Operations Suite for Architectural Graphics, Design Versioning, Production QC, and Site Installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
